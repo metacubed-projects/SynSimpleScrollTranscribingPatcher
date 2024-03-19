@@ -1,0 +1,11 @@
+{
+  "Nickname": "Simple Scroll Transcribing",
+  "Visibility": "Exclude",
+  "OneLineDescription": "Synthesis patcher for Simple Scroll Transcribing",
+  "LongDescription": "Builds scroll recipes for the Scroll Writer in the mod:\nhttps://www.nexusmods.com/skyrimspecialedition/mods/73450",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE"
+  ]
+}
